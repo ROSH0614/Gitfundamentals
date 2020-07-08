@@ -1,0 +1,9 @@
+hi all > TEST.txt
+
+exit
+clear
+hh
+/
+
+cd ..
+echo hi all
